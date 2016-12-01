@@ -1,0 +1,5 @@
+projectKey=BankApp_Git_Gradle
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/BankApp_Git_Gradle
+ceTaskId=AVi0EuuXqWb-7t4_toAo
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVi0EuuXqWb-7t4_toAo
